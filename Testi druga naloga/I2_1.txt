@@ -1,0 +1,6 @@
+5,5
+b,c,b,c,c
+b,c,c,c,b
+c,c,c,c,c
+b,a,c,b,b
+b,c,b,c,b

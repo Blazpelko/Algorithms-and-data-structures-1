@@ -1,0 +1,11 @@
+10,10
+a,a,a,a,a,a,a,a,a,a
+a,b,d,b,v,b,b,b,d,a
+a,b,v,b,v,a,b,b,b,a
+b,b,d,b,b,b,b,b,b,a
+a,b,b,b,d,b,d,b,b,a
+a,b,b,a,b,b,b,b,b,a
+a,b,b,b,b,b,a,b,b,a
+a,b,d,a,b,b,b,b,b,a
+a,b,b,b,b,d,b,v,b,a
+a,a,a,a,a,a,a,a,a,a

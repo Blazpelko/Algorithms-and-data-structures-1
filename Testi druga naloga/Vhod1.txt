@@ -1,0 +1,5 @@
+4,4
+a,b,b,a
+a,c,b,a
+b,b,b,b
+a,b,b,b

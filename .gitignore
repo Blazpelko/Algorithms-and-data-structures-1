@@ -1,0 +1,6 @@
+#Java classes
+*.class
+.vscode
+
+/Izboljsave
+/Seminarska
